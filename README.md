@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of isaced/flarum-ext-email-verification-switch.** Not for installation: use [Packagist](https://packagist.org/packages/isaced/flarum-ext-email-verification-switch) or the [upstream repository](https://github.com/isaced/flarum-ext-email-verification-switch).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0`
+**7** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-08-04 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-01-21 | `^0.1.0` | [Browse](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-01-22 | `^0.1.0` | [Browse](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v0.1.2) |
+| `0.1.3` | 2019-06-30 | `^0.1.0` | [Browse](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-03-23 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v0.1.4) |
+| `1.0.0` | 2021-06-09 | `^1.0` | [Browse](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-05-22 | `^1.0` | [Browse](https://github.com/flarchive/isaced-flarum-ext-email-verification-switch/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/isaced-flarum-ext-email-verification-switch.json](https://github.com/flarchive/archive-index/blob/main/packages/isaced-flarum-ext-email-verification-switch.json)
 
